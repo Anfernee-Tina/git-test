@@ -11,5 +11,7 @@ public class Git_test {
         System.out.println("hello");
         System.out.println("这是我的改进内容哦");
         System.out.println("这是我改的第二版哦");
+        //这次是大修改//
+        System.out.println("请再次拉取代码");
     }
 }
